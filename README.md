@@ -2,4 +2,4 @@
 confluent platform deployment topology generator
 
 ### App Flow
-Input Google Sheets (environment, cluster, node counts..) --> Google Sheets API (authenticate) --> Python app --> Output Topology PDF (using FPDF library)
+Input Google Sheets (environment, cluster, node counts..) --> Google Sheets API (authenticate) --> Python3 app --> Output Topology PDF (using FPDF library)
